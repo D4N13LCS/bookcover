@@ -20,6 +20,12 @@ window.addEventListener('load', function() {
   window.dispatchEvent(new Event('resize'));
 });
 
+window.addEventListener('load', function() {
+  document.body.style.display = 'none';
+  document.body.offsetHeight; // Forçar recalculo do layout
+  document.body.style.display = '';
+});
+
 
 function mostrar_imagem(indice){
     imagens.forEach((el, ind)=>{
