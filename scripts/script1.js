@@ -16,17 +16,6 @@ console.log(verMais);
 let clique = 0;
 let indiceImg = 0;
 
-window.addEventListener('load', function() {
-  window.dispatchEvent(new Event('resize'));
-});
-
-window.addEventListener('load', function() {
-  document.body.style.display = 'none';
-  document.body.offsetHeight; // Forçar recalculo do layout
-  document.body.style.display = '';
-});
-
-
 function mostrar_imagem(indice){
     imagens.forEach((el, ind)=>{
         if(ind === indice){
@@ -190,6 +179,16 @@ let a = function mover(){
 
 
 setInterval(a, 20);
+
+window.addEventListener('load', function() {
+  window.dispatchEvent(new Event('resize'));
+});
+
+window.addEventListener('load', function() {
+  document.body.style.display = 'none';
+  document.body.offsetHeight; // Forçar recalculo do layout
+  document.body.style.display = '';
+});
 
 /* conexão com o back-end*/
 
