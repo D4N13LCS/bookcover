@@ -16,6 +16,10 @@ console.log(verMais);
 let clique = 0;
 let indiceImg = 0;
 
+window.addEventListener('load', function() {
+  window.dispatchEvent(new Event('resize'));
+});
+
 
 function mostrar_imagem(indice){
     imagens.forEach((el, ind)=>{
