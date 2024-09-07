@@ -17,20 +17,22 @@ Tecnologias: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https:
 
 ## -Menu da página-
 
-![readme1](https://github.com/user-attachments/assets/8cd3e3d8-7a75-40b7-b3be-686a598db942)
-
+![readme1](https://github.com/user-attachments/assets/176166bb-d206-4e2f-a358-fecf4da8d2c9)
 
 ## seção recentes
 
-![readme2](https://github.com/user-attachments/assets/569be593-4ded-483d-982a-b951d9800baf)
+![readme2](https://github.com/user-attachments/assets/66ac7546-b0ee-4b53-ba5d-9000f192ab70)
+
 
 ## -seção recomendados-
 
-![readme3](https://github.com/user-attachments/assets/c8349591-b58b-4c08-80f9-97dac73eea70)
+![readme3](https://github.com/user-attachments/assets/a225b8e7-f68f-4ae0-9dd9-0e10343d4f7f)
+
 
 ## -seção de promoções-
 
-![readme4](https://github.com/user-attachments/assets/67fbce71-c108-4636-a4cf-b3df06da731a)
+![readme4](https://github.com/user-attachments/assets/8220efec-f8ff-4373-8132-c575ab0f5130)
+
 
 ### funcionalidades da página principal:
 
@@ -41,7 +43,8 @@ Tecnologias: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https:
 
 
 
-![readme8](https://github.com/user-attachments/assets/3ddd35bc-1368-4dc7-8b47-283f2a3cd0e6)
+![readme8](https://github.com/user-attachments/assets/676031fe-95b7-4c92-8849-cb79fbc17b17)
+
 
 
 
@@ -54,7 +57,8 @@ Tecnologias: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https:
 
 
 
-![readme7](https://github.com/user-attachments/assets/aac85af8-0bce-4382-83eb-20db5763b362)
+![readme7](https://github.com/user-attachments/assets/6fbffac6-900e-491e-aa36-9fe46526ffdb)
+
 
 
 
@@ -62,8 +66,10 @@ Tecnologias: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https:
 
 # Página de Login:
 
-![readme5](https://github.com/user-attachments/assets/323faee5-9541-49a4-b0d4-53880065fafc)
+![readme5](https://github.com/user-attachments/assets/9f5af02e-1cee-4048-9dd5-b4c703659d57)
+
 
 # Página de Cadastro:
 
-![readme6](https://github.com/user-attachments/assets/ca884c4a-a71b-478f-b6a8-3d1458f73f92)
+![readme6](https://github.com/user-attachments/assets/b96039fc-10ec-469a-9834-6f7b1d2dc501)
+
